@@ -1,0 +1,105 @@
+﻿Installing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Installing service CustomFolderChecker...
+Service CustomFolderChecker has been successfully installed.
+Creating EventLog source CustomFolderChecker in log Application...
+Committing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Uninstalling assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Removing EventLog source CustomFolderChecker.
+Service CustomFolderChecker is being removed from the system...
+Service CustomFolderChecker was successfully removed from the system.
+Installing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Installing service CustomFolderChecker...
+Service CustomFolderChecker has been successfully installed.
+Creating EventLog source CustomFolderChecker in log Application...
+Committing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Uninstalling assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Removing EventLog source CustomFolderChecker.
+Service CustomFolderChecker is being removed from the system...
+Service CustomFolderChecker was successfully removed from the system.
+Installing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Installing service CustomFolderChecker...
+Service CustomFolderChecker has been successfully installed.
+Creating EventLog source CustomFolderChecker in log Application...
+Committing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Uninstalling assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Removing EventLog source CustomFolderChecker.
+Service CustomFolderChecker is being removed from the system...
+Service CustomFolderChecker was successfully removed from the system.
+Installing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Installing service CustomFolderChecker...
+Service CustomFolderChecker has been successfully installed.
+Creating EventLog source CustomFolderChecker in log Application...
+Committing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Uninstalling assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Removing EventLog source CustomFolderChecker.
+Service CustomFolderChecker is being removed from the system...
+Service CustomFolderChecker was successfully removed from the system.
+Installing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Installing service CustomFolderChecker...
+Service CustomFolderChecker has been successfully installed.
+Creating EventLog source CustomFolderChecker in log Application...
+Committing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Uninstalling assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\SecondService\bin\Release\SecondService.exe
+Removing EventLog source CustomFolderChecker.
+Service CustomFolderChecker is being removed from the system...
+Service CustomFolderChecker was successfully removed from the system.

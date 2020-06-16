@@ -1,0 +1,63 @@
+﻿Installing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe
+Installing service CustomFolderWatcher...
+Service CustomFolderWatcher has been successfully installed.
+Creating EventLog source CustomFolderWatcher in log Application...
+Committing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe
+Uninstalling assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe
+Removing EventLog source CustomFolderWatcher.
+Service CustomFolderWatcher is being removed from the system...
+Service CustomFolderWatcher was successfully removed from the system.
+Installing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe
+Installing service CustomFolderWatcher...
+Service CustomFolderWatcher has been successfully installed.
+Creating EventLog source CustomFolderWatcher in log Application...
+Committing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe
+Uninstalling assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe
+Removing EventLog source CustomFolderWatcher.
+Service CustomFolderWatcher is being removed from the system...
+Service CustomFolderWatcher was successfully removed from the system.
+Installing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe
+Installing service CustomFolderWatcher...
+Service CustomFolderWatcher has been successfully installed.
+Creating EventLog source CustomFolderWatcher in log Application...
+Committing assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe
+Uninstalling assembly 'C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.InstallLog
+   assemblypath = C:\Users\Naqib\Documents\Visual Studio 2015\Projects\K164040_Q5\FirstService\bin\Release\FirstService.exe
+Removing EventLog source CustomFolderWatcher.
+Service CustomFolderWatcher is being removed from the system...
+Service CustomFolderWatcher was successfully removed from the system.
